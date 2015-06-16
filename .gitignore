@@ -34,3 +34,12 @@ xmlrpc.php
 /profiles
 /scripts
 /themes
+
+# Gulp front-end automation
+sites/all/themes/bfitp/README.md
+sites/all/themes/bfitp/node_modules
+sites/all/themes/bfitp/.sass-cache
+sites/all/themes/bfitp/.tmp
+sites/all/themes/bfitp/builds/**/images/*
+sites/all/themes/bfitp/builds/production
+sites/all/themes/bfitp/flat_html
