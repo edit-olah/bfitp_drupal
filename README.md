@@ -1,11 +1,10 @@
-# Drupal repository 
+# Drupal repository basic setup
     for 
     the Barefoot in the park portfolio website project
 
-This is the portfolio website of Edit Olah and Peter Whyte.
-Here we gather information on what we are working on and what piques our interest.
+First drupal repository setup, basics with bfitp flat-html project included
 
-This website, in itself, is a portfolio project of Edit Olah.
+A portfolio project of Edit Olah.
 
 _______________________________________________________
 
